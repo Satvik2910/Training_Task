@@ -27,7 +27,7 @@ public class CsvToPdf {
         String [] nextLine;
         int lnNum = 0;
 
-        Document my_pdf_data = new Document();
+        Document my_pdf_data = new Document(PageSize.A0);
         PdfWriter.getInstance(my_pdf_data, new FileOutputStream("/Users/azuga/Desktop/converted_PDF_File.pdf"));
         my_pdf_data.open();
         PdfPTable my_first_table = new PdfPTable(14);
