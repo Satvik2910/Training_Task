@@ -30,8 +30,6 @@ Check out sample HTML, PDF ,Excel files generated from Converter under the scree
 
 
 
-
-
 ## Library Invoked
 
 To run this project, you will need to add the following Library(jar files) to your system.
@@ -44,4 +42,10 @@ To run this project, you will need to add the following Library(jar files) to yo
 ## Detailed Descrition
 
 
+## Screenshots
 
+![HTML File](https://drive.google.com/file/d/1NYCkpScjiMtpNHoEu1E4plCoHkvHb5C-/view?usp=sharing)
+
+![PDF File](https://drive.google.com/file/d/1r3ZsDDY238kcWwstEDiHCcJTvdS8CN3T/view?usp=sharing)
+
+![Excel File](https://drive.google.com/file/d/1R4wsxB_Gcrw1YZKt1sqEUEFAd8ZiWwzI/view?usp=sharing)
